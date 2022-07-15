@@ -1,6 +1,8 @@
 # SmartParking
 This repository gives a guided tutorial on the Object detection of Vehicles, Pedestrians and Traffic sign based on the [TraPedesVeh dataset](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/README.md)
 
+<img src="https://github.com/Judith989/SmartParking/blob/main/Figures.jpg" width="144">
+
 ### Training
 
 1. python model_main_tf2.py --model_dir=models/my_ssd_resnet50_v1_fpn --pipeline_config_path=models/my_ssd_resnet50_v1_fpn/pipeline.config --num_train_steps=1500
