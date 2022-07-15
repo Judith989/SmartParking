@@ -1,7 +1,7 @@
 # SmartParking
 This repository gives a guided tutorial on the Object detection of Vehicles, Pedestrians and Traffic sign based on the [TraPedesVeh dataset](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/README.md)
 
-<img src="https://github.com/Judith989/SmartParking/blob/main/Figures.jpg" width="844">
+<img src="https://github.com/Judith989/SmartParking/blob/main/Figures.jpg" width="944">
 
 ### Training
 
