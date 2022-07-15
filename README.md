@@ -65,6 +65,19 @@ The dataset used in this project was obtained from the [TraPedesVeh dataset](htt
 
 If you experience any issues while running the test, kindly refer to this [Github](https://github.com/opencv/opencv/issues/8537) solution.
 
+### Abstract
+
+
+
+### Paper
+
+
+### Authors
+Judith Nkechinyere Njoku∗, Goodness Oluchi Anyanwu†, Ikechi Saviour Igboanusi†, Cosmas Ifeanyi Nwakanma∗, and Dong-Seong Kim†
+
+### Citation
+If you use this work in your research, please cite this paper.
+
 
 ### Requirements
 
