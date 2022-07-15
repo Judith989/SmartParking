@@ -5,7 +5,7 @@ This repository gives a description of the Object detection of Vehicles, Pedestr
 
 The following tutorials were used as a guide in executing this project: [Tensorflow guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#preparing-the-workspace) and [Neptune guide](https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api).
 
-six different models were implemented in this project and the command line sinstructions for training, evaluation, model exporting and testing have been included in this repository.
+Six different models were implemented in this project and the command line instructions for training, evaluation, model exporting and testing have been included in this repository.
 
 ### Data
 
