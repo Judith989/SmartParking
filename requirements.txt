@@ -1,0 +1,6 @@
+pip install tfslim
+pip install tensorflow==2.* 
+pip install scipy
+pip install tensorflow-io
+pip install matplotlib
+pip install tf-models-official
