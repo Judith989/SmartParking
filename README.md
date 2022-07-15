@@ -61,3 +61,14 @@ The dataset used in this project was obtained from the [TraPedesVeh dataset](htt
 ### Testing
 
 1. python detect_objects.py --video_input --class_ids "7" --threshold 0.3  --video_path annotations/testvid.mp4 --model_path exported-models/my_ssd_resnet50_v1_fpn/saved_model --path_to_labelmap annotations/label_map.pbtxt
+
+
+## Requirements
+
+* pip install tfslim
+* pip install tensorflow==2.* 
+* pip install scipy
+* pip install tensorflow-io
+* pip install matplotlib
+* pip install tf-models-official
+
