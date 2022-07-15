@@ -1,0 +1,35 @@
+item {
+    name: "Traffic sign",
+    id: 1,
+    display_name: "Traffic sign"
+}
+item {
+    name: "bicycle",
+    id: 2,
+    display_name: "bicycle"
+}
+item {
+    name: "cyclist",
+    id: 3,
+    display_name: "cyclist"
+}
+item {
+    name: "motorcycle",
+    id: 4,
+    display_name: "motorcycle"
+}
+item {
+    name: "pedestrian",
+    id: 5,
+    display_name: "pedestrian"
+}
+item {
+    name: "scooter",
+    id: 6,
+    display_name: "scooter"
+}
+item {
+    name: "vehicle",
+    id: 7,
+    display_name: "vehicle"
+}
