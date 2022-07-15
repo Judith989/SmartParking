@@ -64,10 +64,10 @@ The dataset used in this project was obtained from the [TraPedesVeh dataset](htt
 
 
 If you experience any issues while running the test, kindly refer to this [Github](https://github.com/opencv/opencv/issues/8537) solution, and make the following commands in Linux:
-$ conda remove opencv
-$ conda install -c menpo opencv
-$ pip install --upgrade pip
-$ pip install opencv-contrib-python
+* $ conda remove opencv
+* $ conda install -c menpo opencv
+* $ pip install --upgrade pip
+* $ pip install opencv-contrib-python
 
 ### Abstract
 
