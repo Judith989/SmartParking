@@ -1,7 +1,17 @@
 # SmartParking
-This repository gives a guided tutorial on the Object detection of Vehicles, Pedestrians and Traffic sign based on the [TraPedesVeh dataset](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/README.md), and for the paper titled "State-of-the-Art Object Detectors for Vehicle, Pedestrian, and Traffic Sign Detection for Smart Parking Systems", which was presented at the International Conference on Information and Communication Technology Convergence (ICTC2022), Jeju, South Korea.
+This repository gives a description of the Object detection of Vehicles, Pedestrians and Traffic sign based on the [TraPedesVeh dataset](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/README.md), and for the paper titled "State-of-the-Art Object Detectors for Vehicle, Pedestrian, and Traffic Sign Detection for Smart Parking Systems", which was presented at the International Conference on Information and Communication Technology Convergence (ICTC2022), Jeju, South Korea.
 
 <img src="https://github.com/Judith989/SmartParking/blob/main/Figures.jpg" width="944">
+
+The following tutorials were used as a guide in executing this project: [Tensorflow guide](https://tensorflow-object-detection-api-tutorial.readthedocs.io/en/latest/training.html#preparing-the-workspace) and [Neptune guide](https://neptune.ai/blog/how-to-train-your-own-object-detector-using-tensorflow-object-detection-api).
+
+six different models were implemented in this project and the command line sinstructions for training, evaluation, model exporting and testing have been included in this repository.
+
+### Data
+
+The dataset used in this project was obtained from the [TraPedesVeh dataset](https://github.com/Judith989/TraPedesVeh-A-mini-Dataset-for-Intelligent-Transportation-Systems/blob/main/README.md) repository. This repository contains both the raw image files and the converted TF.record files. For ease of implementataion, you can just use the Tf.record files.
+
+
 
 ### Training
 
