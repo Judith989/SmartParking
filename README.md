@@ -63,7 +63,11 @@ The dataset used in this project was obtained from the [TraPedesVeh dataset](htt
 1. python detect_objects.py --video_input --class_ids "7" --threshold 0.3  --video_path annotations/testvid.mp4 --model_path exported-models/my_ssd_resnet50_v1_fpn/saved_model --path_to_labelmap annotations/label_map.pbtxt
 
 
-If you experience any issues while running the test, kindly refer to this [Github](https://github.com/opencv/opencv/issues/8537) solution.
+If you experience any issues while running the test, kindly refer to this [Github](https://github.com/opencv/opencv/issues/8537) solution, and make the following commands in Linux:
+$ conda remove opencv
+$ conda install -c menpo opencv
+$ pip install --upgrade pip
+$ pip install opencv-contrib-python
 
 ### Abstract
 
@@ -87,4 +91,5 @@ If you use this work in your research, please cite this paper.
 * pip install tensorflow-io
 * pip install matplotlib
 * pip install tf-models-official
+* pip install opencv-contrib-python
 
