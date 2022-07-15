@@ -32,7 +32,7 @@ Object detection of Vehicles, Pedestrians and Traffic sign
 
 6. python model_main_tf2.py --model_dir=models/my_faster_rcnn_inception_resnet_v2_640x640 --pipeline_config_path=models/my_faster_rcnn_inception_resnet_v2_640x640/pipeline.config --checkpoint_dir=models/my_faster_rcnn_inception_resnet_v2_640x640
 
-Model Export
+### Model Export
 1. python exporter_main_v2.py     --input_type="image_tensor"    --pipeline_config_path=models/my_ssd_resnet50_v1_fpn/pipeline.config   --trained_checkpoint_dir=models/my_ssd_resnet50_v1_fpn/    --output_directory=exported-models/my_ssd_resnet50_v1_fpn
 
 2. python exporter_main_v2.py     --input_type="image_tensor"    --pipeline_config_path=models/my_ssd_mobilenet_v2_320x320/pipeline.config   --trained_checkpoint_dir=models/my_ssd_mobilenet_v2_320x320/    --output_directory=exported-models/my_ssd_mobilenet_v2_320x320
