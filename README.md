@@ -80,7 +80,7 @@ If you experience any issues while running the test, kindly refer to this [Githu
 Judith Nkechinyere Njoku∗, Goodness Oluchi Anyanwu†, Ikechi Saviour Igboanusi†, Cosmas Ifeanyi Nwakanma∗, and Dong-Seong Kim†
 
 ### Citation
-If you use this work in your research, please cite this paper.
+If you use this work in your research, please cite this [paper](https://ieeexplore.ieee.org/document/9952856).
 
 
 ### Requirements
