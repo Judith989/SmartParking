@@ -71,10 +71,11 @@ If you experience any issues while running the test, kindly refer to this [Githu
 
 ### Abstract
 
+To meet the safety requirements of pedestrians and other vehicles in smart parking systems, vehicles rely heavily on visual data to classify and detect target objects. In real-time, deep learning (DL)-based algorithms have shown excellent results in object detection. While several studies have thoroughly investigated various DL-based object detection methods, only a few have focused on multi-detection, encompassing pedestrian detection, vehicle detection, and traffic sign detection. This work provided a comparative analysis of six independent variants of Faster-RCNN and SSD Models for pedestrians, vehicles, and traffic sign detection. There is a lack of comparison leveraging on detailed evaluation metrics among existing models. To address the issue of little or non-availability of datasets for multi-detection, this work provided a mini dataset for task (TraPedesVeh). Experimental results analyzed using detection accuracy, average precision (AP), average recall (AR), training time, and loss show that the Faster-RCNN model with the Inception backbone outperformed all other models.
 
 
 ### Paper
-
+[State-of-the-Art Object Detectors for Vehicle, Pedestrian, and Traffic Sign Detection for Smart Parking Systems](https://ieeexplore.ieee.org/document/9952856).
 
 ### Authors
 Judith Nkechinyere Njoku∗, Goodness Oluchi Anyanwu†, Ikechi Saviour Igboanusi†, Cosmas Ifeanyi Nwakanma∗, and Dong-Seong Kim†
